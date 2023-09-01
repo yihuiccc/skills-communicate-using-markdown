@@ -1,2 +1,2 @@
 # New Content
-add new content to the file
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
